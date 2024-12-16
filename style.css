@@ -15,7 +15,6 @@ nav ul {
     display: flex;
     list-style: none;
     justify-content: center;
-    padding: 0;
     background: #222;
 }
 nav a {
@@ -29,6 +28,10 @@ nav a:hover {
 .main-container {
     text-align: center;
     padding: 20px;
+}
+.article img {
+    width: 100px;
+    height: auto;
 }
 footer {
     background-color: #222;
